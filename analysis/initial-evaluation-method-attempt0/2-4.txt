@@ -1,0 +1,207 @@
+
+C:\Users\sully\Desktop\School\Artificial-Intelligence\project2\test>g++ test.cpp
+
+C:\Users\sully\Desktop\School\Artificial-Intelligence\project2\test>g++ test.cpp
+
+C:\Users\sully\Desktop\School\Artificial-Intelligence\project2\test>a.exe 2 4
+. . . . . . .
+. . . . . . .
+. . . . . . .
+. . . . . . .
+. . . . . . .
+. . . . . . .
+---------------
+0 1 2 3 4 5 6
+Min Computer move: 0
+Max Computer move: 0
+. . . . . . .
+. . . . . . .
+. . . . . . .
+. . . . . . .
+X . . . . . .
+O . . . . . .
+---------------
+0 1 2 3 4 5 6
+Min Computer move: 0
+Max Computer move: 0
+. . . . . . .
+. . . . . . .
+X . . . . . .
+O . . . . . .
+X . . . . . .
+O . . . . . .
+---------------
+0 1 2 3 4 5 6
+Min Computer move: 0
+Max Computer move: 0
+X . . . . . .
+O . . . . . .
+X . . . . . .
+O . . . . . .
+X . . . . . .
+O . . . . . .
+---------------
+0 1 2 3 4 5 6
+Min Computer move: 1
+Max Computer move: 1
+X . . . . . .
+O . . . . . .
+X . . . . . .
+O . . . . . .
+X X . . . . .
+O O . . . . .
+---------------
+0 1 2 3 4 5 6
+Min Computer move: 1
+Max Computer move: 1
+X . . . . . .
+O . . . . . .
+X X . . . . .
+O O . . . . .
+X X . . . . .
+O O . . . . .
+---------------
+0 1 2 3 4 5 6
+Min Computer move: 1
+Max Computer move: 1
+X X . . . . .
+O O . . . . .
+X X . . . . .
+O O . . . . .
+X X . . . . .
+O O . . . . .
+---------------
+0 1 2 3 4 5 6
+Min Computer move: 2
+Max Computer move: 3
+X X . . . . .
+O O . . . . .
+X X . . . . .
+O O . . . . .
+X X . . . . .
+O O O X . . .
+---------------
+0 1 2 3 4 5 6
+Min Computer move: 2
+Max Computer move: 2
+X X . . . . .
+O O . . . . .
+X X . . . . .
+O O X . . . .
+X X O . . . .
+O O O X . . .
+---------------
+0 1 2 3 4 5 6
+Min Computer move: 2
+Max Computer move: 2
+X X . . . . .
+O O X . . . .
+X X O . . . .
+O O X . . . .
+X X O . . . .
+O O O X . . .
+---------------
+0 1 2 3 4 5 6
+Min Computer move: 2
+Max Computer move: 3
+X X O . . . .
+O O X . . . .
+X X O . . . .
+O O X . . . .
+X X O X . . .
+O O O X . . .
+---------------
+0 1 2 3 4 5 6
+Min Computer move: 4
+Max Computer move: 3
+X X O . . . .
+O O X . . . .
+X X O . . . .
+O O X X . . .
+X X O X . . .
+O O O X O . .
+---------------
+0 1 2 3 4 5 6
+Min Computer move: 3
+Max Computer move: 3
+X X O . . . .
+O O X X . . .
+X X O O . . .
+O O X X . . .
+X X O X . . .
+O O O X O . .
+---------------
+0 1 2 3 4 5 6
+Min Computer move: 3
+Max Computer move: 4
+X X O O . . .
+O O X X . . .
+X X O O . . .
+O O X X . . .
+X X O X X . .
+O O O X O . .
+---------------
+0 1 2 3 4 5 6
+Min Computer move: 4
+Max Computer move: 4
+X X O O . . .
+O O X X . . .
+X X O O X . .
+O O X X O . .
+X X O X X . .
+O O O X O . .
+---------------
+0 1 2 3 4 5 6
+Min Computer move: 4
+Max Computer move: 4
+X X O O X . .
+O O X X O . .
+X X O O X . .
+O O X X O . .
+X X O X X . .
+O O O X O . .
+---------------
+0 1 2 3 4 5 6
+Min Computer move: 5
+Max Computer move: 5
+X X O O X . .
+O O X X O . .
+X X O O X . .
+O O X X O . .
+X X O X X X .
+O O O X O O .
+---------------
+0 1 2 3 4 5 6
+Min Computer move: 5
+Max Computer move: 5
+X X O O X . .
+O O X X O . .
+X X O O X X .
+O O X X O O .
+X X O X X X .
+O O O X O O .
+---------------
+0 1 2 3 4 5 6
+Min Computer move: 5
+Max Computer move: 5
+X X O O X X .
+O O X X O O .
+X X O O X X .
+O O X X O O .
+X X O X X X .
+O O O X O O .
+---------------
+0 1 2 3 4 5 6
+Min Computer move: 6
+Max Computer move: 6
+X X O O X X .
+O O X X O O .
+X X O O X X .
+O O X X O O .
+X X O X X X X
+O O O X O O O
+---------------
+0 1 2 3 4 5 6
+MAX (Computer) Wins!
+
+C:\Users\sully\Desktop\School\Artificial-Intelligence\project2\test>

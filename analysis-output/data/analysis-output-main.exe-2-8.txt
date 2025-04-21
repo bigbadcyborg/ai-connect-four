@@ -1,0 +1,138 @@
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+---------------
+0 1 2 3 4 5 6
+Max Computer move: 3
+Min Computer move: 0
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+O . . X . . . 
+---------------
+0 1 2 3 4 5 6
+Max Computer move: 2
+Min Computer move: 1
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+O O X X . . . 
+---------------
+0 1 2 3 4 5 6
+Max Computer move: 3
+Min Computer move: 2
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . O X . . . 
+O O X X . . . 
+---------------
+0 1 2 3 4 5 6
+Max Computer move: 3
+Min Computer move: 3
+. . . . . . . 
+. . . . . . . 
+. . . O . . . 
+. . . X . . . 
+. . O X . . . 
+O O X X . . . 
+---------------
+0 1 2 3 4 5 6
+Max Computer move: 4
+Min Computer move: 5
+. . . . . . . 
+. . . . . . . 
+. . . O . . . 
+. . . X . . . 
+. . O X . . . 
+O O X X X O . 
+---------------
+0 1 2 3 4 5 6
+Max Computer move: 2
+Min Computer move: 4
+. . . . . . . 
+. . . . . . . 
+. . . O . . . 
+. . X X . . . 
+. . O X O . . 
+O O X X X O . 
+---------------
+0 1 2 3 4 5 6
+Max Computer move: 4
+Min Computer move: 6
+. . . . . . . 
+. . . . . . . 
+. . . O . . . 
+. . X X X . . 
+. . O X O . . 
+O O X X X O O 
+---------------
+0 1 2 3 4 5 6
+Max Computer move: 0
+Min Computer move: 0
+. . . . . . . 
+. . . . . . . 
+. . . O . . . 
+O . X X X . . 
+X . O X O . . 
+O O X X X O O 
+---------------
+0 1 2 3 4 5 6
+Max Computer move: 0
+Min Computer move: 2
+. . . . . . . 
+. . . . . . . 
+X . O O . . . 
+O . X X X . . 
+X . O X O . . 
+O O X X X O O 
+---------------
+0 1 2 3 4 5 6
+Max Computer move: 0
+Min Computer move: 3
+. . . . . . . 
+X . . O . . . 
+X . O O . . . 
+O . X X X . . 
+X . O X O . . 
+O O X X X O O 
+---------------
+0 1 2 3 4 5 6
+Max Computer move: 0
+Min Computer move: 4
+X . . . . . . 
+X . . O . . . 
+X . O O O . . 
+O . X X X . . 
+X . O X O . . 
+O O X X X O O 
+---------------
+0 1 2 3 4 5 6
+Max Computer move: 1
+Min Computer move: 1
+X . . . . . . 
+X . . O . . . 
+X . O O O . . 
+O O X X X . . 
+X X O X O . . 
+O O X X X O O 
+---------------
+0 1 2 3 4 5 6
+Max Computer move: 1
+X . . . . . . 
+X . . O . . . 
+X X O O O . . 
+O O X X X . . 
+X X O X O . . 
+O O X X X O O 
+---------------
+0 1 2 3 4 5 6
+MAX (Computer) Wins!
